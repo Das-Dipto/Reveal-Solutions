@@ -1,0 +1,25 @@
+.rv-text-primary{ color:#0C2E8A;}
+.rv-bg-primary{background-color: #0C2E8A; }
+.rv-bg-primary:hover{background-color: #0f42cf;}
+
+.rv-text-secondary{ color:#51d8af; }
+.rv-bg-secondary{background-color: #51d8af; }
+.rv-bg-secondary:hover{background-color: #555964;}
+
+.item{
+    width: 100%;
+    min-height: 80vh;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:2rem 0 4rem;
+}
+
+.item h1{ font-size: 4rem;}
+
+.item-1{ background-image: url(./image/carousel/3.jpg); }
+
+.item-2{ background-image: url(./image/carousel/4.jpg); }
+
+.item-3{ background-image: url(./image/carousel/5.jpg); }
