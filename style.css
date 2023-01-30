@@ -24,10 +24,6 @@
 
 .item-3{ background-image: url(./image/carousel/5.jpg); }
 
-/* .service > div{
-    border: 1px solid red;
-} */
-
-/* article{
-    border: 1px solid red;
-} */
+.client img{
+    width: 9rem;
+}
