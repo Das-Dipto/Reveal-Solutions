@@ -1,5 +1,6 @@
 .rv-text-primary{ color:#0C2E8A;}
 .rv-bg-primary{background-color: #0C2E8A; }
+.rv-bg-primary-special{background-color: #0C2E8A;}
 .rv-bg-primary:hover{background-color: #0f42cf;}
 
 .rv-text-secondary{ color:#51d8af; }
@@ -24,6 +25,4 @@
 
 .item-3{ background-image: url(./image/carousel/5.jpg); }
 
-.client img{
-    width: 9rem;
-}
+.client img{ width: 9rem;}
